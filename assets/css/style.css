@@ -1647,3 +1647,7 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+#back-to-top {
+  display: none !important;
+}
